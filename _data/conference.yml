@@ -43,7 +43,7 @@ navbar:
     visible: False
     children:
     - id: 1
-      label: Call for Demos
+      label: Call for Posters
       path: /cfd.html
       visible: True
     - id: 2
@@ -89,11 +89,11 @@ deadlines:
     pass_due: False
     strike_through: False
   - date: 2025-07-01
-    text: Demo submission deadline
+    text: Poster submission deadline
     pass_due: False
     strike_through: False
   - date: 2024-07-15
-    text: Notification of demo acceptance
+    text: Notification of poster acceptance
     pass_due: False
     strike_through: False
 

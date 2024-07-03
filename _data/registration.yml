@@ -44,7 +44,7 @@ description: |
     <th>Attendee Status</th>
     <th>Advance/early registration</th>
     <th>Late/Onsite registration</th>
-    <th>Max # of papers </th>
+    <th>Max \# of papers </th>
   </tr>
   <tr>
     <td>Regular </td>
