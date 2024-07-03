@@ -1,11 +1,75 @@
 about: "Registration for GTWC is not open yet."
 url: 
 description: |
-  <h5 class="text-info">Registration</h5>
+  <h5 class="text-info">Registration fees</h5>
 
- 
+<h2> Online<\h2>
+<table>
+  <tr>
+    <th>Attendee Status</th>
+    <th>Advance/early registration</th>
+    <th>Late/Onsite registration</th>
+    <th>Max # of papers </th>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>200</td>
+    <td>250</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>250</td>
+    <td>300</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Student </td>
+    <td>150</td>
+    <td>200</td>
+    <td>1</td>
+  </tr>
+  <tr>
+  <td>Attendance</td>
+    <td>100</td>
+    <td>120</td>
+    <td>-</td>
+  </tr>
+</table>
 
-  <p class="font-weight-bold">
-    Information about registration will be announced here soon.
-  </p>
+  
+<h2> Physical presence<\h2>
+<table>
+  <tr>
+    <th>Attendee Status</th>
+    <th>Advance/early registration</th>
+    <th>Late/Onsite registration</th>
+    <th>Max # of papers </th>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>300</td>
+    <td>350</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>350</td>
+    <td>400</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Student </td>
+    <td>200</td>
+    <td>250</td>
+    <td>1</td>
+  </tr>
+  <tr>
+  <td>Attendance</td>
+    <td>150</td>
+    <td>170</td>
+    <td>-</td>
+  </tr>
+</table>
 
+  

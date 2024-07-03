@@ -1,6 +1,9 @@
-- title: Program Committee Chair
+- title: Scientific Committee Chairs
   column: 1
   members:
+  - name: Kyriakos Bourikas
+    org: "Hellenic Open University (Greece)"
+    homepage: "scholar.google.gr/citations?user=0j9IKpoAAAAJ&hl=el"
   - name:  Sotiris Lycourghiotis
     org: Hellenic Open University (Greece)
     homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
@@ -16,6 +19,12 @@
   - name: Ekavi Isari 
     org: Hellenic Open University (Greece)
     homepage: "https://www.researchgate.net/profile/Ekavi-Isari"
+  - name: Eleana Kordouli
+    org: "University of Patras (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=fwzkGYgAAAAJ&hl=el"
+  - name: Kalimeris Konstantinos
+    org: "Academy of Athens (Greece)"
+    homepage: "https://www.researchgate.net/profile/Konstantinos-Kalimeris-2"
   - name:  Sotiris Lycourghiotis
     org: Hellenic Open University (Greece)
     homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
@@ -28,7 +37,9 @@
   - name:  John Zafeiropoulos
     org: Hellenic Open University (Greece)
     homepage: "https://www.researchgate.net/profile/John-Zafeiropoulos-2"
-- title: Program Committee
+
+
+- title: Scientific Committee
   column: 2
   members:
   - name: Georgios Balomenos
@@ -47,8 +58,8 @@
     org: "Hellenic Open University (Greece)"
     homepage: "https://scholar.google.gr/citations?user=Jhy-X_UAAAAJ&hl=el&oi=sra"
   - name: Ioannis Konstantinou
-    org: ""
-    homepage: ""
+    org: "University of Ioannina (Greece)"
+    homepage: "https://www.researchgate.net/profile/Ioannis-Konstantinou"
   - name: Konstantinos Komnitsas
     org: "Technical University of Crete (Greece)"
     homepage: "https://www.tuc.gr/en/index.php?id=5643&tx_tuclabspersonnel_pi3%5Bpersonid%5D=306"

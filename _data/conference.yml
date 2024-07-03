@@ -1,12 +1,12 @@
-full_name: Green Transition World Conference
+full_name: Green Transition World Congress
 short_name: GTWC
 description: > # this means to ignore newlines until "baseurl:"
-  Green Transition World Conference will be help in Patras (Greece)
+  Green Transition World Congress will be help in Patras (Greece)
 
 email: info.nowness@gmail.com
 
 # iteration: 7th
-full_title: Green Transition World Conference
+full_title: Green Transition World Congress
 short_title: GTWC 2025
 
 year: 2025
@@ -40,7 +40,7 @@ navbar:
     visible: True
   - id: 2
     label: Calls for Papers
-    visible: True
+    visible: False
     children:
     - id: 1
       label: Call for Demos
@@ -49,7 +49,7 @@ navbar:
     - id: 2
       label: Call for Papers
       path: /cfp.html
-      visible: True
+      visible: False
   - id: 3
     label: Submission
     visible: True
@@ -76,23 +76,23 @@ navbar:
     visible: True
 deadline_timezone: AoE
 deadlines:
-  - date: 2024-12-31
+  - date: 2024-02-25
     text: Submission deadline
     pass_due: False
     strike_through: False
-  - date: 2025-04-15
+  - date: 2025-05-25
     text: Notification of acceptance
     pass_due: False
     strike_through: False
-  - date: 2025-05-15
+  - date: 2025-07-01
     text: Camera-ready due
     pass_due: False
     strike_through: False
-  - date: 2025-06-01
+  - date: 2025-07-01
     text: Demo submission deadline
     pass_due: False
     strike_through: False
-  - date: 2024-06-15
+  - date: 2024-07-15
     text: Notification of demo acceptance
     pass_due: False
     strike_through: False

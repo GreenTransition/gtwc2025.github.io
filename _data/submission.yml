@@ -1,22 +1,22 @@
 # portal: easychair
 # url: "https://cmt3.research.microsoft.com/ISCLS2024"
 
-# file_formats:
-#   - PDF
-# languages:
-#   - English
+file_formats:
+  - PDF
+languages:
+  - English
 
 # review_mode: 1
 # # 0: double blind
 # # 1: single blind
 
-# pagelimits:
-#   - type: paper
-#     name: Paper
-#     limit: 20
-#   - type: demo
-#     name: Demonstration
-#     limit: 2
+pagelimits:
+  - type: paper
+    name: Paper
+    limit: 8
+  - type: poster
+    name: Poster
+    limit: 2
 
 # fontsize: 10
 
