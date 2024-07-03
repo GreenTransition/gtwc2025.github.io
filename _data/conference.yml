@@ -23,7 +23,7 @@ show_title: false
 
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/Patraw1.jpg
+    image_path: ./assets/images/slideshow/Patras1.jpg
     description: Patras
     active: True
   - id: 1
@@ -99,9 +99,9 @@ deadlines:
 
 
 sponsors:
-  - name: International Association of Sanskrit Studies
-    logo_path: ./assets/images/sponsors/iass-logo.png
-    url: https://www.sanskritassociation.org/
+  # - name: International Association of Sanskrit Studies
+  #   logo_path: ./assets/images/sponsors/iass-logo.png
+  #   url: https://www.sanskritassociation.org/
 social_media:
   facebook_link:
   twitter_link:
