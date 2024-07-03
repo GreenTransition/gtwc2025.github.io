@@ -2,74 +2,74 @@
   column: 1
   members:
   - name:  Sotiris Lycourghiotis
-    org: 
+    org: Hellenic Open University (Greece)
     homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
 - title: Organising Chair
   column: 1
   members:
   - name:  Sotiris Lycourghiotis
-    org: 
+    org: Hellenic Open University (Greece)
     homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
 - title: Organizing Committee
   column: 1
   members:
-  - name:  Sotiris Lycourghiotis
-    org: 
-    homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
   - name: Ekavi Isari 
-    org: 
+    org: Hellenic Open University (Greece)
     homepage: "https://www.researchgate.net/profile/Ekavi-Isari"
-  - name:  John Zafeiropoulos
-    org: 
-    homepage: "https://www.researchgate.net/profile/John-Zafeiropoulos-2"
-  - name:  Zafeirakis Zafeirakopoulos
-    org: 
-    homepage: "https://scholar.google.gr/citations?user=NEeNVssAAAAJ&hl=el&oi=sra"
+  - name:  Sotiris Lycourghiotis
+    org: Hellenic Open University (Greece)
+    homepage: "https://scholar.google.gr/citations?user=q8nCd_4AAAAJ&hl=el"
   - name:  Theodor Panagiotakopoulos
-    org: 
+    org: Hellenic Open University (Greece)
     homepage: "https://scholar.google.com/citations?hl=el&user=Q7JOvYwAAAAJ"
+  - name:  Zafeirakis Zafeirakopoulos
+    org: University of Geneva (Switzerland)
+    homepage: "https://scholar.google.gr/citations?user=NEeNVssAAAAJ&hl=el&oi=sra"
+  - name:  John Zafeiropoulos
+    org: Hellenic Open University (Greece)
+    homepage: "https://www.researchgate.net/profile/John-Zafeiropoulos-2"
 - title: Program Committee
   column: 2
   members:
+  - name: Georgios Balomenos
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.com/citations?hl=el&user=CytBYKgAAAAJ"
+  - name: Kyriakos Bourikas
+    org: "Hellenic Open University (Greece)"
+    homepage: "scholar.google.gr/citations?user=0j9IKpoAAAAJ&hl=el"
+  - name: Ioannis K. Kalavrouziotis
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.com/citations?user=m2HEHX0AAAAJ&hl=el&oi=sra"
   - name: Hrissi K. Karapanagioti
-    org:  
+    org:  University of Patras (Greece)
     homepage: https://scholar.google.com/citations?user=LzIWZvQAAAAJ&hl=el
-  - name: Konstantinos Komnitsas
-    org: ""
-    homepage: "https://www.tuc.gr/en/index.php?id=5643&tx_tuclabspersonnel_pi3%5Bpersonid%5D=306"
+  - name: Petros Kokkinos
+    org: "Hellenic Open University (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=Jhy-X_UAAAAJ&hl=el&oi=sra"
   - name: Ioannis Konstantinou
     org: ""
     homepage: ""
-  - name: Dimitra Lambropoulou
-    org: ""
-    homepage: "https://scholar.google.gr/citations?user=xngg0asAAAAJ&hl=el"
-  - name: George Kyzas
-    org: ""
-    homepage: "https://scholar.google.gr/citations?user=Lxa5x90AAAAJ&hl=el&oi=sra"
-  - name: Christos Kordulis
-    org: ""
-    homepage: "https://scholar.google.gr/citations?user=utv3sh8AAAAJ&hl=el"
-  - name: Kyriakos Bourikas
-    org: ""
-    homepage: "scholar.google.gr/citations?user=0j9IKpoAAAAJ&hl=el"
+  - name: Konstantinos Komnitsas
+    org: "Technical University of Crete (Greece)"
+    homepage: "https://www.tuc.gr/en/index.php?id=5643&tx_tuclabspersonnel_pi3%5Bpersonid%5D=306"
   - name: Eleana Kordouli
-    org: ""
+    org: "University of Patras (Greece)"
     homepage: "https://scholar.google.gr/citations?user=fwzkGYgAAAAJ&hl=el"
-  - name: Ioannis K. Kalavrouziotis
-    org: ""
-    homepage: "https://scholar.google.com/citations?user=m2HEHX0AAAAJ&hl=el&oi=sra"
-  - name: Heidrun Steinmetz
-    org: ""
-    homepage: "https://www.researchgate.net/profile/Heidrun-Steinmetz"
+  - name: Christos Kordulis
+    org: "University of Patras (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=utv3sh8AAAAJ&hl=el"
+  - name: George Kyzas
+    org: "Democritus University of Thrace (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=Lxa5x90AAAAJ&hl=el&oi=sra"
+  - name: Dimitra Lambropoulou
+    org: "Aristotle University of Thessaloniki (Greece)"
+    homepage: "https://scholar.google.gr/citations?user=xngg0asAAAAJ&hl=el"
   - name: Jacek Makinia
-    org: ""
+    org: "Politechnika Gdańska (Poland)"
     homepage: "https://scholar.google.co.uk/citations?user=t_DuWdkAAAAJ&hl=pl"
-  - name: Petros Kokkinos
-    org: ""
-    homepage: "https://scholar.google.gr/citations?user=Jhy-X_UAAAAJ&hl=el&oi=sra"
-  - name: Georgios Balomenos
-    org: ""
-    homepage: "https://scholar.google.com/citations?hl=el&user=CytBYKgAAAAJ"
+  - name: Heidrun Steinmetz
+    org: "Universität Stuttgart (Germany)"
+    homepage: "https://www.researchgate.net/profile/Heidrun-Steinmetz"
 
 - title: Webmaster
   column: 1
