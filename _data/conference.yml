@@ -10,12 +10,12 @@ full_title: Green Transition World Conference
 short_title: GTWC 2025
 
 year: 2025
-date: July, 2025
+date: 4-7 September, 2025
 
 location: Patras
 country: Greece
 
-logo_path: ./assets/images/gtwc.jpg
+logo_path: ./assets/images/gtwc.png
 
 # if show_logo is false, show_title: false has no effect
 show_logo: true
