@@ -29,6 +29,9 @@ slideshow:
   - id: 1
     image_path: ./assets/images/slideshow/Patras2.jpg
     description: Patras
+  - id: 2
+    image_path: ./assets/images/slideshow/eap1.jpg
+    description: Patras
 navbar:
   - id: 0
     label: Home
@@ -99,9 +102,11 @@ deadlines:
 
 
 sponsors:
-  # - name: International Association of Sanskrit Studies
-  #   logo_path: ./assets/images/sponsors/iass-logo.png
-  #   url: https://www.sanskritassociation.org/
+  - name: Hellenic Open University
+    logo_path: ./assets/images/hou_logo.png
+  - name: Nowness
+    logo_path: ./assets/images/nowness.png
+    # url: https://www.sanskritassociation.org/
 social_media:
   facebook_link:
   twitter_link:
