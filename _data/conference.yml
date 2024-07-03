@@ -79,7 +79,7 @@ navbar:
     visible: True
 deadline_timezone: AoE
 deadlines:
-  - date: 2024-02-25
+  - date: 2025-02-25
     text: Submission deadline
     pass_due: False
     strike_through: False
