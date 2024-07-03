@@ -1,4 +1,4 @@
-portal: CMT3 Submission Portal
+portal: easychair
 url: "https://cmt3.research.microsoft.com/ISCLS2024"
 
 file_formats:
@@ -50,10 +50,10 @@ sources:
   text: iscls.bib
 
 
-template:
-  name: ISCLS Submission Template
-  description: submission template and instructions for ISCLS
-  url: ./assets/files/iscls-template.zip
-  overleaf: https://www.overleaf.com/latex/templates/submission-template-and-instructions-for-the-iscls/dmhhdjnxqftd
+# template:
+#   name: ISCLS Submission Template
+#   description: submission template and instructions for ISCLS
+#   url: ./assets/files/iscls-template.zip
+#   overleaf: https://www.overleaf.com/latex/templates/submission-template-and-instructions-for-the-iscls/dmhhdjnxqftd
 
-publisher: Association for Computational Linguistics Anthology
+publisher: IOP (pending agreement)
