@@ -1,7 +1,7 @@
 full_name: Green Transition World Congress
 short_name: GTWC
 description: > # this means to ignore newlines until "baseurl:"
-  Green Transition World Congress will be help in Patras (Greece)
+  
 
 email: info.nowness@gmail.com
 
@@ -50,18 +50,18 @@ navbar:
       label: Call for Papers
       path: /cfp.html
       visible: False
-  - id: 3
-    label: Submission
-    visible: True
-    children:
-    - id: 1
-      label: Submission
-      path: /submission.html
-      visible: True
-    - id: 2
-      label: Accepted Papers
-      path: /accepted.html
-      visible: True
+  # - id: 3
+  #   label: Submission
+  #   visible: True
+  #   children:
+  #   - id: 1
+  #     label: Submission
+  #     path: /submission.html
+  #     visible: True
+  #   - id: 2
+  #     label: Accepted Papers
+  #     path: /accepted.html
+  #     visible: True
   - id: 4
     label: Program
     path: /program.html
