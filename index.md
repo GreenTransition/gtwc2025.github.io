@@ -10,6 +10,8 @@ The theme of GTWC is "Accelerating Towards Sustainability: Innovations in Renewa
 
  The Green Transition World Congress aims to bring together experts, researchers, policymakers, and practitioners from around the globe to exchange ideas, share insights, and collaborate on solutions to foster a more sustainable world. With a focus on renewable energy, biofuels, geographic information systems (GIS), water management, and smart green cities, the conference will address key challenges and opportunities in these crucial areas.
 
+**All accepted papers from the Congress will be published in the conference proceedings by [IOP](https://ioppublishing.org/) and indexed by SCOPUS and the Web of Science**
+
 Conference Tracks:
 * Renewable Energy Revolution: Explore the latest developments in solar, wind, hydro, and other renewable energy sources. Discuss innovative technologies, policy frameworks, and investment strategies driving the transition towards a cleaner energy future.
 * Biofuels and Sustainable Agriculture: Dive into the realm of biofuels and sustainable agriculture practices. Discuss advancements in biofuel production, agricultural innovations, and the role of biotechnology in creating a more sustainable energy ecosystem.

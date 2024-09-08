@@ -104,9 +104,10 @@ deadlines:
 sponsors:
   - name: Hellenic Open University
     logo_path: ./assets/images/hou_logo.png
+    url: https://www.eap.gr/en/
   - name: Nowness
     logo_path: ./assets/images/nowness.png
-    # url: https://www.sanskritassociation.org/
+    #url: https://www.sanskritassociation.org/
 social_media:
   facebook_link:
   twitter_link:
