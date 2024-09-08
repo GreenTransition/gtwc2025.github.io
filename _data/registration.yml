@@ -1,75 +1,77 @@
 about: "Registration for GTWC is not open yet."
 url: 
-# description: |
-#   <h5 class="text-info">Registration fees</h5>
+description: |
+The GTWC Registration Fee structure considers a hybrid conference. E-distance and physical presence will give the opportunity to students, researchers and members of the academic and scientific community to participate at these educational event.  Registration is mandatory for all conference participants, authors, and non-authors. Registration fees are in EUR (€).
 
-# <h2> Online</h2>
-# <table>
-#   <tr>
-#     <th>Attendee Status</th>
-#     <th>Advance/early registration</th>
-#     <th>Late/Onsite registration</th>
-#     <th>Max \# of papers </th>
-#   </tr>
-#   <tr>
-#     <td>Regular </td>
-#     <td>200</td>
-#     <td>250</td>
-#     <td>1</td>
-#   </tr>
-#   <tr>
-#     <td>Regular </td>
-#     <td>250</td>
-#     <td>300</td>
-#     <td>2</td>
-#   </tr>
-#   <tr>
-#     <td>Student </td>
-#     <td>150</td>
-#     <td>200</td>
-#     <td>1</td>
-#   </tr>
-#   <tr>
-#   <td>Attendance</td>
-#     <td>100</td>
-#     <td>120</td>
-#     <td>-</td>
-#   </tr>
-# </table>
+  <h5 class="text-info">Registration fees</h5>
+
+<h2> Online</h2>
+<table>
+  <tr>
+    <th>Attendee Status</th>
+    <th>Advance/early registration</th>
+    <th>Late/Onsite registration</th>
+    <th>Max \# of papers </th>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>200</td>
+    <td>250</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>250</td>
+    <td>300</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Student </td>
+    <td>150</td>
+    <td>200</td>
+    <td>1</td>
+  </tr>
+  <tr>
+  <td>Attendance</td>
+    <td>100</td>
+    <td>120</td>
+    <td>-</td>
+  </tr>
+</table>
 
   
-# <h2> Physical presence</h2>
-# <table>
-#   <tr>
-#     <th>Attendee Status</th>
-#     <th>Advance/early registration</th>
-#     <th>Late/Onsite registration</th>
-#     <th>Max \# of papers </th>
-#   </tr>
-#   <tr>
-#     <td>Regular </td>
-#     <td>300</td>
-#     <td>350</td>
-#     <td>1</td>
-#   </tr>
-#   <tr>
-#     <td>Regular </td>
-#     <td>350</td>
-#     <td>400</td>
-#     <td>2</td>
-#   </tr>
-#   <tr>
-#     <td>Student </td>
-#     <td>200</td>
-#     <td>250</td>
-#     <td>1</td>
-#   </tr>
-#   <tr>
-#   <td>Attendance</td>
-#     <td>150</td>
-#     <td>170</td>
-#     <td>-</td>
-#   </tr>
-# </table>
+<h2> Physical presence</h2>
+<table>
+  <tr>
+    <th>Attendee Status</th>
+    <th>Advance/early registration</th>
+    <th>Late/Onsite registration</th>
+    <th>Max \# of papers </th>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>300</td>
+    <td>350</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Regular </td>
+    <td>350</td>
+    <td>400</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Student </td>
+    <td>200</td>
+    <td>250</td>
+    <td>1</td>
+  </tr>
+  <tr>
+  <td>Attendance</td>
+    <td>150</td>
+    <td>170</td>
+    <td>-</td>
+  </tr>
+</table>
 
   
